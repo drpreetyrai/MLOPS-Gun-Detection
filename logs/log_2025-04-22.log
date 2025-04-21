@@ -1,0 +1,97 @@
+2025-04-22 04:24:03,445 - INFO - Created the artifacts/raw/raw
+2025-04-22 04:24:04,166 - INFO - Download the data from /Users/preetyrai/.cache/kagglehub/datasets/issaisasank/guns-object-detection/versions/1
+2025-04-22 04:24:04,166 - INFO - Imagees folder dont exist..
+2025-04-22 04:24:04,166 - INFO - Labels folder dont exist..
+2025-04-22 04:24:39,147 - INFO - Data Processing Initialized...
+2025-04-22 04:24:39,148 - INFO - Loading Data for index 0
+2025-04-22 04:24:39,148 - INFO - Image Path : artifacts/raw/Images/1.jpeg
+2025-04-22 04:50:08,976 - INFO - Model Architecture intialized...
+2025-04-22 04:50:08,978 - INFO - Model Moved to device
+2025-04-22 04:50:08,978 - INFO - Optimizer has been initialized..
+2025-04-22 04:50:08,984 - INFO - Data Processing Initialized...
+2025-04-22 04:50:08,986 - INFO - Data splitted sucesfuly...
+2025-04-22 04:50:08,986 - INFO - Starting epoch 0
+2025-04-22 04:50:08,990 - INFO - Loading Data for index 187
+2025-04-22 04:50:08,990 - INFO - Image Path : artifacts/raw/Images/268.jpeg
+2025-04-22 04:50:09,005 - INFO - Loading Data for index 38
+2025-04-22 04:50:09,005 - INFO - Image Path : artifacts/raw/Images/133.jpeg
+2025-04-22 04:50:09,007 - INFO - Loading Data for index 104
+2025-04-22 04:50:09,007 - INFO - Image Path : artifacts/raw/Images/193.jpeg
+2025-04-22 04:50:22,615 - INFO - Loading Data for index 132
+2025-04-22 04:50:22,618 - INFO - Image Path : artifacts/raw/Images/218.jpeg
+2025-04-22 04:50:22,628 - INFO - Loading Data for index 10
+2025-04-22 04:50:22,628 - INFO - Image Path : artifacts/raw/Images/108.jpeg
+2025-04-22 04:50:22,630 - INFO - Loading Data for index 228
+2025-04-22 04:50:22,630 - INFO - Image Path : artifacts/raw/Images/304.jpeg
+2025-04-22 04:50:49,740 - INFO - Loading Data for index 52
+2025-04-22 04:50:49,744 - INFO - Image Path : artifacts/raw/Images/146.jpeg
+2025-04-22 04:50:49,773 - INFO - Loading Data for index 133
+2025-04-22 04:50:49,773 - INFO - Image Path : artifacts/raw/Images/219.jpeg
+2025-04-22 04:50:49,773 - INFO - Loading Data for index 47
+2025-04-22 04:50:49,773 - INFO - Image Path : artifacts/raw/Images/141.jpeg
+2025-04-22 04:51:05,575 - INFO - Loading Data for index 90
+2025-04-22 04:51:05,576 - INFO - Image Path : artifacts/raw/Images/180.jpeg
+2025-04-22 04:51:05,595 - INFO - Loading Data for index 166
+2025-04-22 04:51:05,595 - INFO - Image Path : artifacts/raw/Images/249.jpeg
+2025-04-22 04:51:05,597 - INFO - Loading Data for index 141
+2025-04-22 04:51:05,597 - INFO - Image Path : artifacts/raw/Images/226.jpeg
+2025-04-22 04:51:36,562 - INFO - Loading Data for index 153
+2025-04-22 04:51:36,567 - INFO - Image Path : artifacts/raw/Images/237.jpeg
+2025-04-22 04:51:36,603 - INFO - Loading Data for index 40
+2025-04-22 04:51:36,603 - INFO - Image Path : artifacts/raw/Images/135.jpeg
+2025-04-22 04:51:36,604 - INFO - Loading Data for index 54
+2025-04-22 04:51:36,604 - INFO - Image Path : artifacts/raw/Images/148.jpeg
+2025-04-22 04:51:51,714 - INFO - Loading Data for index 127
+2025-04-22 04:51:51,718 - INFO - Image Path : artifacts/raw/Images/213.jpeg
+2025-04-22 04:51:51,730 - INFO - Loading Data for index 138
+2025-04-22 04:51:51,730 - INFO - Image Path : artifacts/raw/Images/223.jpeg
+2025-04-22 04:51:51,737 - INFO - Loading Data for index 21
+2025-04-22 04:51:51,737 - INFO - Image Path : artifacts/raw/Images/118.jpeg
+2025-04-22 04:52:07,198 - INFO - Loading Data for index 31
+2025-04-22 04:52:07,198 - INFO - Image Path : artifacts/raw/Images/127.jpeg
+2025-04-22 04:52:07,200 - INFO - Loading Data for index 77
+2025-04-22 04:52:07,200 - INFO - Image Path : artifacts/raw/Images/169.jpeg
+2025-04-22 04:52:07,201 - INFO - Loading Data for index 210
+2025-04-22 04:52:07,201 - INFO - Image Path : artifacts/raw/Images/289.jpeg
+2025-04-22 04:52:28,939 - INFO - Loading Data for index 207
+2025-04-22 04:52:28,941 - INFO - Image Path : artifacts/raw/Images/286.jpeg
+2025-04-22 04:52:28,943 - INFO - Loading Data for index 172
+2025-04-22 04:52:28,943 - INFO - Image Path : artifacts/raw/Images/254.jpeg
+2025-04-22 04:52:28,944 - INFO - Loading Data for index 44
+2025-04-22 04:52:28,944 - INFO - Image Path : artifacts/raw/Images/139.jpeg
+2025-04-22 04:52:52,000 - INFO - Loading Data for index 25
+2025-04-22 04:52:52,004 - INFO - Image Path : artifacts/raw/Images/121.jpeg
+2025-04-22 04:52:52,030 - INFO - Loading Data for index 165
+2025-04-22 04:52:52,030 - INFO - Image Path : artifacts/raw/Images/248.jpeg
+2025-04-22 04:52:52,031 - INFO - Loading Data for index 258
+2025-04-22 04:52:52,031 - INFO - Image Path : artifacts/raw/Images/331.jpeg
+2025-04-22 04:53:26,218 - INFO - Loading Data for index 169
+2025-04-22 04:53:26,222 - INFO - Image Path : artifacts/raw/Images/251.jpeg
+2025-04-22 04:53:26,240 - INFO - Loading Data for index 118
+2025-04-22 04:53:26,240 - INFO - Image Path : artifacts/raw/Images/205.jpeg
+2025-04-22 04:53:26,242 - INFO - Loading Data for index 229
+2025-04-22 04:53:26,242 - INFO - Image Path : artifacts/raw/Images/305.jpeg
+2025-04-22 04:53:51,887 - INFO - Loading Data for index 102
+2025-04-22 04:53:51,891 - INFO - Image Path : artifacts/raw/Images/191.jpeg
+2025-04-22 04:53:51,908 - INFO - Loading Data for index 130
+2025-04-22 04:53:51,908 - INFO - Image Path : artifacts/raw/Images/216.jpeg
+2025-04-22 04:53:51,909 - INFO - Loading Data for index 6
+2025-04-22 04:53:51,909 - INFO - Image Path : artifacts/raw/Images/104.jpeg
+2025-04-22 04:54:18,757 - INFO - Loading Data for index 241
+2025-04-22 04:54:18,764 - INFO - Image Path : artifacts/raw/Images/316.jpeg
+2025-04-22 04:54:18,784 - INFO - Loading Data for index 5
+2025-04-22 04:54:18,784 - INFO - Image Path : artifacts/raw/Images/103.jpeg
+2025-04-22 04:54:18,785 - INFO - Loading Data for index 69
+2025-04-22 04:54:18,785 - INFO - Image Path : artifacts/raw/Images/161.jpeg
+2025-04-22 04:54:31,034 - INFO - Loading Data for index 20
+2025-04-22 04:54:31,034 - INFO - Image Path : artifacts/raw/Images/117.jpeg
+2025-04-22 04:54:31,036 - INFO - Loading Data for index 115
+2025-04-22 04:54:31,036 - INFO - Image Path : artifacts/raw/Images/202.jpeg
+2025-04-22 04:54:31,037 - INFO - Loading Data for index 26
+2025-04-22 04:54:31,037 - INFO - Image Path : artifacts/raw/Images/122.jpeg
+2025-04-22 04:54:44,838 - INFO - Loading Data for index 126
+2025-04-22 04:54:44,838 - INFO - Image Path : artifacts/raw/Images/212.jpeg
+2025-04-22 04:54:44,840 - INFO - Loading Data for index 113
+2025-04-22 04:54:44,840 - INFO - Image Path : artifacts/raw/Images/200.jpeg
+2025-04-22 04:54:44,840 - INFO - Loading Data for index 213
+2025-04-22 04:54:44,841 - INFO - Image Path : artifacts/raw/Images/291.jpeg

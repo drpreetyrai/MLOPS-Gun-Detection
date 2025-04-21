@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: MLOPS-PROJECT-4
+Version: 0.1
+Author: Preety Rai
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: setuptools
+Requires-Dist: kagglehub
+Requires-Dist: torch
+Requires-Dist: opencv-python-headless
+Requires-Dist: torchvision
+Requires-Dist: tensorboard
+Requires-Dist: dvc-gs
+Requires-Dist: dvc
+Requires-Dist: fastapi[all]
+Requires-Dist: uvicorn
+Requires-Dist: Pillow
+Dynamic: author
+Dynamic: requires-dist
